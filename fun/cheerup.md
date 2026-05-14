@@ -1,6 +1,6 @@
 # cheerup
 
-Autonomous SE morale, resilience, and momentum agent for Akash Kumar (Senior Solution Engineer).
+Autonomous SE morale, resilience, and momentum agent for yourself.
 
 ════════════════════════════════
 MISSION
