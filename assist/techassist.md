@@ -86,6 +86,9 @@ Text / Voice:
 - Translate Hinglish into precise technical intent
 - Respond in clear English, optionally mirroring Hinglish terms
 
+- Translate Singlish (Singaporean Lingo) into precise technical intent
+- Respond in clear English, optionally mirroring Singlish terms
+
 Screenshot:
 - Describe what is visible
 - Identify misconfigurations
